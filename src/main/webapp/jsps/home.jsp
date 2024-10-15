@@ -34,7 +34,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<span style="font-weight: bold;">
                 JOMACS IT SOLUTIONS INC., 
 		Calgary, Alberta, Canada
-		+1 587 402 1728,
+		+1 583 3030 303,
 		info@jomacsit.com
 		<br>
 		<a href="mailto:info@jomacsit.com">Mail to JOMACS IT SOLUTIONS INC.</a>
@@ -45,6 +45,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>JOMACS IT SOLUTIONS - Consultantancy, Training and Software Development</p>
+<p align=center>JOMACS IT SOLUTIONS - You Dream it; We make it happen</p>
 <p align=center><small>Copyrights 2022 by <a href="http://jomacsit.com/">JOMACS IT SOLUTIONS INC.</a> </small></p>
 
 </body>
